@@ -12,7 +12,7 @@ from telegram.ext import (
 
 # === CONFIGURATION ===
 TOKEN = "7531294790:AAE-gEbMW4AhsRRKCHLGT1-QqfDdEAwTi4c"
-ADMIN_ID = "6821755959"
+ADMIN_ID = 6821755959
 
 UPLOAD_DIR = os.path.abspath(os.path.dirname(__file__))
 HISTORY_FILE = os.path.expanduser("~/.vpsbot_history.log")
